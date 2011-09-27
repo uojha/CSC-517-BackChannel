@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  uid: 1
+  post: MyText
+  votes: 1
+  root: 1
+  rel: 1.5
+
+two:
+  uid: 1
+  post: MyText
+  votes: 1
+  root: 1
+  rel: 1.5
